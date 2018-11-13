@@ -5,7 +5,7 @@ When we drive, we use our eyes to decide where to go. The lines on the road that
 
 In this project I will detect lane lines in images using Python and OpenCV.
 
-![original image](https://github.com/zmandyhe/find-lane-lines/blob/master/test_images/solidWhiteRight.jpg)![annoted image](https://github.com/zmandyhe/find-lane-lines/blob/master/test_images_output/solidWhiteRight.jpg.png)
+![original image](https://github.com/zmandyhe/find-lane-lines/blob/master/test_images/solidWhiteRight.jpg)[annoted image](https://github.com/zmandyhe/find-lane-lines/blob/master/test_images_output/solidWhiteRight.jpg.png)
 
 
 ### Reflection
